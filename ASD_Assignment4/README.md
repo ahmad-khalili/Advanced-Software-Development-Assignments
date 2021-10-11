@@ -66,4 +66,4 @@ public static ArrayList<String> getCurrentConnections() {
         return myConnection;
 ```
 ### Part 2:
-![](https://doc-10-c8-docs.googleusercontent.com/docs/securesc/fksflp3n19ovsunqq0ehuqbbelmeiu45/qthbnktgc70jsf6jv2og3o8mbcn1ud5c/1633971750000/03148533800132047237/03148533800132047237/1j-zRjK3Eznd_0Znv_euS4Dx_Nfw3xuQ4?e=download&authuser=0&nonce=5s7idmf67jebc&user=03148533800132047237&hash=25treclqgn1l2rqvikbapdlp4e46mij9)
+![](https://github.com/ahmad-khalili/Advanced-Software-Development-Assignments/blob/main/Images/Connection_UML.jpg?raw=true)
