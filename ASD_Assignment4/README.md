@@ -76,4 +76,4 @@ public static boolean release(String connectionType) {
 		return myConnection;
 ```
 ### Part 2:
-![](https://github.com/ahmad-khalili/Advanced-Software-Development-Assignments/blob/main/Images/Connection_UML.jpg?raw=true)
+![](https://github.com/ahmad-khalili/Advanced-Software-Development-Assignments/blob/main/Images/Connection_UML.png?raw=true)
