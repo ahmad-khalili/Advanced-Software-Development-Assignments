@@ -250,7 +250,7 @@ public class Editor extends JFrame implements ActionListener, DocumentListener {
         JFileChooser dialog = new JFileChooser(System.getProperty("user.home"));
         dialog.setDialogTitle(dialogTitle);
         int result = dialog.showSaveDialog(this);
-        if (result != JOptionPane.OK_OPTION)
+        if (result == JOptionPane.OK_CANCEL_OPTION)
             return;
         file = dialog.getSelectedFile();
         try (PrintWriter writer = new PrintWriter(file)){
